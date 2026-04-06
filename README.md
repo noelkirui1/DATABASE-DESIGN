@@ -1,5 +1,22 @@
-# DATABASE-DESIGN
-The SQL file in this folder contains a series of SQL statements to create and populate tables for a sample eCommerce database.
-You can watch the video here to understand how this design came to be:
+# E-Commerce Database Project
+
+## Description
+This project is a relational database system for managing an e-commerce platform.
+
+## Features
+- Customer management
+- Product management
+- Order processing
+- Payment tracking
+
+## Files
+- schema.sql
+- data.sql
+- queries.sql
+- ER diagram
+- Report
+
+## Video Demo
+[Paste your link here]
 
 
