@@ -11,12 +11,7 @@ This project is a relational database system for managing an e-commerce platform
 
 ## Files
 - schema.sql
-- data.sql
-- queries.sql
-- ER diagram
-- Report
 
-## Video Demo
-[Paste your link here]
+
 
 
